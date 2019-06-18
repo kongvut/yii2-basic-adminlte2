@@ -48,8 +48,8 @@ INSTALLATION
 ### Install via Composer
 
 ```
-git clone https://github.com/kongvut/yii2-basic-adminlte3
-cd yii2-basic-adminlte3
+git clone https://github.com/kongvut/yii2-basic-adminlte2
+cd yii2-basic-adminlte2
 composer install
 ```
 
